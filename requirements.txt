@@ -15,7 +15,6 @@ MarkupSafe==1.1.1
 mkl-fft==1.3.0
 mkl-service==2.3.0
 mypy-extensions==0.4.3
-pandas @ file:///C:/ci/pandas_1618365634936/work
 path @ file:///C:/ci/path_1614022440181/work
 pathlib2 @ file:///C:/ci/pathlib2_1607025069150/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
