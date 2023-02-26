@@ -1,10 +1,6 @@
 anaconda-client==1.7.2
 anaconda-navigator==2.3.2
 appdirs==1.4.4
-beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
-bitarray @ file:///C:/ci/bitarray_1618435038389/work
-bkcharts==0.2
-black==19.10b0
 cachetools==4.2.4
 commonmark==0.9.1
 compress-pickle==2.1.0
@@ -181,8 +177,6 @@ qtconsole @ file:///tmp/build/80754af9/qtconsole_1616775094278/work
 QtPy==1.9.0
 regex @ file:///C:/ci/regex_1617569893741/work
 requests @ file:///tmp/build/80754af9/requests_1608241421344/work
-rich==12.6.0
-rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 rsa==4.7.2
 Rtree @ file:///C:/ci/rtree_1618421009405/work
 ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016967756/work
