@@ -15,9 +15,6 @@ MarkupSafe==1.1.1
 mkl-fft==1.3.0
 mkl-service==2.3.0
 mypy-extensions==0.4.3
-nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
-nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
-nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 pandas @ file:///C:/ci/pandas_1618365634936/work
