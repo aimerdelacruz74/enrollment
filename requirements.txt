@@ -1,6 +1,5 @@
 anaconda-client==1.7.2
 anaconda-navigator==2.3.2
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
 appdirs==1.4.4
 bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
 beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
