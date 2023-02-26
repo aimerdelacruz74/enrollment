@@ -10,11 +10,6 @@ h5py==2.10.0
 HeapDict==1.0.1
 hydralit==1.0.14
 hydralit-components==1.0.10
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipyslickgrid==0.0.3
-ipython @ file:///C:/ci/ipython_1617121002983/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
 jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
