@@ -10,7 +10,6 @@ h5py==2.10.0
 HeapDict==1.0.1
 hydralit==1.0.14
 hydralit-components==1.0.10
-idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
 imagecodecs @ file:///C:/ci/imagecodecs_1617996768495/work
 imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
@@ -36,9 +35,6 @@ jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231
 keyring @ file:///C:/ci/keyring_1614616910860/work
 kiwisolver @ file:///C:/ci/kiwisolver_1612282606037/work
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
-llvmlite==0.36.0
-locket==0.2.1
-lxml @ file:///C:/ci/lxml_1616443455957/work
 MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
 mkl-fft==1.3.0
@@ -60,7 +56,6 @@ numexpr @ file:///C:/ci/numexpr_1618856738664/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 oauth2client==4.1.3
-olefile==0.46
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
 packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
 pandas @ file:///C:/ci/pandas_1618365634936/work
@@ -72,8 +67,6 @@ path @ file:///C:/ci/path_1614022440181/work
 pathlib2 @ file:///C:/ci/pathlib2_1607025069150/work
 pathspec==0.7.0
 pathtools @ file:///Users/ktietz/demo/mc3/conda-bld/pathtools_1629713893697/work
-patsy==0.5.1
-pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow @ file:///C:/ci/pillow_1617386341487/work
