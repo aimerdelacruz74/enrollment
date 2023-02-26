@@ -10,10 +10,6 @@ h5py==2.10.0
 HeapDict==1.0.1
 hydralit==1.0.14
 hydralit-components==1.0.10
-imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1617877484576/work
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
 ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipyslickgrid==0.0.3
 ipython @ file:///C:/ci/ipython_1617121002983/work
