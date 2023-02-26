@@ -10,7 +10,6 @@ h5py==2.10.0
 HeapDict==1.0.1
 hydralit==1.0.14
 hydralit-components==1.0.10
-imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
 importlib-metadata @ file:///C:/ci/importlib-metadata_1617877484576/work
 iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
