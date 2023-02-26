@@ -1,7 +1,6 @@
 anaconda-client==1.7.2
 anaconda-navigator==2.3.2
 appdirs==1.4.4
-bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
 beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
 bitarray @ file:///C:/ci/bitarray_1618435038389/work
 bkcharts==0.2
