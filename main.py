@@ -34,7 +34,7 @@ def app():
     st.markdown("<h2 style='text-align: center;'>ENROLLMENT FORECASTING  </h2>", unsafe_allow_html=True)
 
 
-    image = Image.open('BED.jpg')
+    image = Image.open('main.png')
     st.image(image, use_column_width=True)
     
     #video_file = open('hau.mp4', 'rb')
