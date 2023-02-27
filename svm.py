@@ -242,7 +242,7 @@ def show_svm():
     else:
         st.info('AWAITING FOR THE CSV FILE TO BE UPLOADED.')
         if st.button('PRESS TO USE EXAMPLE DATASET'):    
-            df = pd.read_csv('predictnew.csv', encoding = 'ISO-8859-1')
+            df = pd.read_csv('predictnew2.csv', encoding = 'ISO-8859-1')
             X = df.drop ('enrolled', axis = 1)
             Y = df['enrolled']
             df = pd.concat( [X,Y], axis=1 )
