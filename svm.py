@@ -41,7 +41,7 @@ def show_svm():
     In this page, the SUPPORT VECTOR MACHINE (SVM) function is used in this app.
     """)
     
-    image = Image.open('SVM.png')
+    image = Image.open('SVM.PNG')
     st.image(image, use_column_width=True)
     
     st.write("""
