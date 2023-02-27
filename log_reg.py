@@ -41,7 +41,7 @@ def show_log_reg():
     In this page, the LOGISTIC REGRESSION function is used in this app.
     """)
     
-    image = Image.open('LOGREG.png')
+    image = Image.open('LOGREG.PNG')
     st.image(image, use_column_width=True)
     
     st.write("""
