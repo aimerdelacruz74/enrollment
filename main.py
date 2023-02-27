@@ -40,7 +40,7 @@ def app():
     #video_file = open('hau.mp4', 'rb')
     #video_bytes = video_file.read()
     #st.video(video_bytes)
-    st.video('https://www.youtube.com/watch?v=IvCpl0m8vck')
+    st.video('https://hauph-my.sharepoint.com/:v:/g/personal/andelacruz_hau_edu_ph/Eai2LlVi2C5GjlUz5goWwkgB8AKULk7ZpPbT8mOIJqlpeg?e=EiorRo')
     st.sidebar.markdown("# HOME")
     streamlit_style = """
 			<style>
