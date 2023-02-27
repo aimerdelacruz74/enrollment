@@ -37,9 +37,10 @@ def app():
     #image = Image.open('CPL-SJH1.jpg')
     #st.image(image, use_column_width=True)
     
-    video_file = open('hau.mp4', 'rb')
-    video_bytes = video_file.read()
-    st.video(video_bytes)
+    #video_file = open('hau.mp4', 'rb')
+    #video_bytes = video_file.read()
+    #st.video(video_bytes)
+    st.video('https://www.youtube.com/watch?v=IvCpl0m8vck')
     st.sidebar.markdown("# HOME")
     streamlit_style = """
 			<style>
