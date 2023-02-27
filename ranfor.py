@@ -49,7 +49,7 @@ def show_ranfor():
     In this page, the RANDOM FOREST  function is used in this app.
     """)
     
-    image = Image.open('RANFOR.png')
+    image = Image.open('RANFOR.PNG')
     st.image(image, use_column_width=True)
     
     st.write("""
