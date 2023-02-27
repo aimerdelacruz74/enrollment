@@ -34,13 +34,13 @@ def app():
     st.markdown("<h2 style='text-align: center;'>ENROLLMENT FORECASTING  </h2>", unsafe_allow_html=True)
 
 
-    #image = Image.open('CPL-SJH1.jpg')
-    #st.image(image, use_column_width=True)
+    image = Image.open('BED.jpg')
+    st.image(image, use_column_width=True)
     
     #video_file = open('hau.mp4', 'rb')
     #video_bytes = video_file.read()
     #st.video(video_bytes)
-    st.video('https://hauph-my.sharepoint.com/:v:/g/personal/andelacruz_hau_edu_ph/Eai2LlVi2C5GjlUz5goWwkgB8AKULk7ZpPbT8mOIJqlpeg?e=EiorRo')
+    #st.video('https://hauph-my.sharepoint.com/:v:/g/personal/andelacruz_hau_edu_ph/Eai2LlVi2C5GjlUz5goWwkgB8AKULk7ZpPbT8mOIJqlpeg?e=EiorRo')
     st.sidebar.markdown("# HOME")
     streamlit_style = """
 			<style>
