@@ -42,7 +42,7 @@ def show_explore():
     In this page, Data visualization will be performed to analyze the dataset.
     """)
     
-    image = Image.open('SOC.jpg')
+    image = Image.open('soc.jpg')
     st.image(image, use_column_width=True)
     
     st.write("""
