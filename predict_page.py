@@ -139,7 +139,7 @@ def show_predict_page():
         st.info('AWAITING FOR CSV FILE TO BE UPLOADED')
         st.markdown("")
         if st.button('PRESS TO USE EXAMPLE DATASET'):    
-            df = pd.read_csv('predictnew.csv', encoding = 'ISO-8859-1')
+            df = pd.read_csv('predictnew2.csv', encoding = 'ISO-8859-1')
   
             st.markdown('THE DATASET FOR S.Y. 2020-2022 IS USED AS THE EXAMPLE.')
             
