@@ -96,3 +96,6 @@ page_names_to_funcs = {
 
 selected_page = st.sidebar.selectbox("SELECT A PAGE", page_names_to_funcs.keys())
 page_names_to_funcs[selected_page]()
+st.sidebar.markdown("""
+    [USER MANUAL](https://drive.google.com/drive/folders/1zurK5rQqgNSfNmAAEppK0bnn7Fhh21M4?usp=sharing)
+    """)
