@@ -16,7 +16,7 @@ def show_about():
         """
     st.markdown(streamlit_style, unsafe_allow_html=True)
 
-    st.title("A Machine Learning Application in Predicting the Likelihood of Enrollment Based on Applicant’s Personality Assessment")
+    st.title("Predictive Modeling of Enrollment Likelihood in Holy Angel University Using Machine Learning and Personality Assessment: A Comparative Analysis of Logistic Regression, Random Forest, and Support Vector Machine")
     st.write("")
     image = Image.open('gs.jpg')
     st.image(image, use_column_width=True)
