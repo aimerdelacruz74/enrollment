@@ -5,6 +5,7 @@ from log_reg import show_log_reg
 from svm import show_svm
 from explore import show_explore
 from about import show_about
+from privacy import show_privacy
 from PIL import Image
 from pathlib import Path
 import hydralit_components as hc
@@ -101,13 +102,18 @@ def explore():
 def about():
     st.sidebar.markdown("# ABOUT")
     show_about()
+	
+def privacy():
+    st.sidebar.markdown("# PRIVACY CONSENT")
+    show_privacy()
 
 page_names_to_funcs = {
     "HOME": app,
     "PREDICT": predict_page,
     "MODEL FITTING": model_fitting,
     "EXPLORE": explore,
-    "ABOUT": about
+    "ABOUT": about,
+    "PRIVACY": privacy
 }
 
 selected_page = st.sidebar.selectbox("SELECT A PAGE", page_names_to_funcs.keys())
