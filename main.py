@@ -88,7 +88,7 @@ def about():
     show_about()
 	
 def privacy():
-    st.sidebar.markdown("# PRIVACY CONSENT")
+    st.sidebar.markdown("# PRIVACY STATEMENT")
     show_privacy()
 
 page_names_to_funcs = {
