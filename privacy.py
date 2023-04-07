@@ -18,7 +18,7 @@ def show_privacy():
 
     st.title("PRIVACY STATEMENT")
     st.write("")
-    st.title("PURPOSE OF THE APPLICATION")
+    st.write("PURPOSE OF THE APPLICATION")
     st.write("The purpose of the machine learning application is to use data and algorithms to predict the likelihood of a student enrolling in Holy Angel University.")
     st.write("These predictions can be useful for the university to better understand the enrollment trends and to develop targeted strategies for recruitment and retention. Machine learning enrollment prediction can help the university to allocate resources more effectively, such as by identifying programs or departments that may require additional support to attract and retain students. Additionally, students can benefit from enrollment prediction by receiving more personalized and targeted communications from academic institutions during the admissions process.")
     st.write("")
