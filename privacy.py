@@ -16,7 +16,8 @@ def show_privacy():
         """
     st.markdown(streamlit_style, unsafe_allow_html=True)
 
-    st.title("PRIVACY CONSENT STATEMENT")
+    st.title("PRIVACY STATEMENT")
     st.write("")
+    st.write("PRIVACY CONSENT STATEMENT")
     st.write("Holy Angel University respects the student’s privacy and are committed to protecting information. By using the enrollment prediction app, applicants are consenting to the collection, use, and disclosure of personal information as described in this privacy policy.")
     st.write("")
