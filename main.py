@@ -15,9 +15,10 @@ st.set_page_config(layout="wide")
 
 #st.success('This is a warning', icon="⚠️")   \
 
-if st.button("Open new window"):
-    # Use the write function to output JavaScript code to the page
-    st.write("<script>window.open('https://www.example.com')</script>", unsafe_allow_html=True)
+if st.button("Disclaimer"):
+    disclaimer_text = "This is a disclaimer message."
+    window_code = f"<script>window.open('data:text/html,{disclaimer_text}')</script>"
+    st.write(window_code, unsafe_allow_html=True)
 
 
 
