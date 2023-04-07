@@ -13,7 +13,11 @@ import hydralit_components as hc
 
 st.set_page_config(layout="wide")
 
-st.success('This is a warning', icon="⚠️")     
+#st.success('This is a warning', icon="⚠️")   \
+
+if st.button("Open new window"):
+    # Use the write function to output JavaScript code to the page
+    st.write("<script>window.open('https://www.example.com')</script>", unsafe_allow_html=True)
 
 
 
