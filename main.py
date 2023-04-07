@@ -13,6 +13,8 @@ import hydralit_components as hc
 
 st.set_page_config(layout="wide")
 
+st.warning('This is a warning', icon="⚠️")     
+
 
 
 def app():
@@ -54,7 +56,7 @@ def app():
     st.write("""The purpose of this Machine Learning web based application is to predict the likelihood of incoming college freshmen 
         students to enroll at Holy Angel University by basing it on their demographic information and personality exam to 
         determine the possible number of enrollees. """)
-   st.warning('This is a warning', icon="⚠️")     
+
     
 
     
