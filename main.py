@@ -13,7 +13,7 @@ import hydralit_components as hc
 
 st.set_page_config(layout="wide")
 
-st.error('This is a warning', icon="⚠️")     
+st.success('This is a warning', icon="⚠️")     
 
 
 
